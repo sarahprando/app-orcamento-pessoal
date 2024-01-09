@@ -6,5 +6,5 @@
  </br>
 
 <div style="display: inline_block" align="center"><br>
-<img align="center" alt="logo" height="30" width="50" src="assents/logo.png" target="_blank">
+<img align="center" alt="logo" height="30" width="50" src="assents/logo.png">
 </div>
